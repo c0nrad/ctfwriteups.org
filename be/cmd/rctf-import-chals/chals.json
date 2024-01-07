@@ -1,0 +1,752 @@
+[
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=affda47af74180499120f4046bfe3dc5c918cfd9f528a4f8c3a68704cd71c4f5%2Foutput.txt",
+                "name": "output.txt"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=e33c8dea3257799539ebab09d863167f7f746a409488b25638dc6f77cc4db138%2Fmain.sage",
+                "name": "main.sage"
+            }
+        ],
+        "description": "Yesterday, as I strolled alongside the riverside, a brilliant idea suddenly dawned on me: why not implement the RSA algorithm on polynomials? Sounds secure enough, at least in my estimation",
+        "author": "kh4rg0sh",
+        "points": 459,
+        "id": "f0ebcedc-aa5d-4268-83f5-fddcd489f62f",
+        "name": "PRSA",
+        "category": "Crypto",
+        "solves": 70
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=d73ca18d924e99b5063836d7f488c0d8bec6722ebf62e961f5b0d5a39cdc35b2%2Foutput.txt",
+                "name": "output.txt"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=48801e947353750a1a1309739c94d690e1211ca2b2e7f09f3514b4ea014467f6%2Fscript.py",
+                "name": "script.py"
+            }
+        ],
+        "description": "I have encrypted the flag with a secret. I can't tell you the secret but I have left you a hint in the script.",
+        "author": "L3G10N",
+        "points": 461,
+        "id": "6d6c8090-f673-4572-ab01-f7d8abe3d311",
+        "name": "Knapsack",
+        "category": "Crypto",
+        "solves": 67
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=b24a1d922590a6c088559e5be72cccc839fda0ffd2210b13fd3913dfd186caa2%2Fphp_sucks.zip",
+                "name": "php_sucks.zip"
+            }
+        ],
+        "description": " I hate PHP, and I know you hate PHP too. So, to irritate you, here is your PHP webapp. Go play with it\n\nhttp://34.132.132.69:8002/chal/upload.php\n",
+        "author": "j4ck4l",
+        "points": 419,
+        "id": "d01e3210-5680-409e-8a36-ac1f74c715c4",
+        "name": "php_sucks",
+        "category": "web",
+        "solves": 124
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=f4900e3e02f6ff256c360ed6224f9bbc256d79763270c003a099a4b0867c1f3c%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "Enough of Cheat Codesss , this is no GTA SA where you can win using Cheats.Let's see if you can win without it......",
+        "author": "it4ch1",
+        "points": 373,
+        "id": "0e235dbe-844b-49fc-bf21-18adb9a4d2bf",
+        "name": "Cheat Code",
+        "category": "Beginner",
+        "solves": 176
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=b0e84ea81114b302036097a2b11d446a0f82ead89ebc09a5bfc9ed70a4601607%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "I left a message for you. You will love it definitely\n\nhttp://34.132.132.69:8003/",
+        "author": "j4ck4l",
+        "points": 237,
+        "id": "56eecd6c-0b87-4cd7-b7bc-29cc303f6418",
+        "name": "secret_of_j4ck4l",
+        "category": "Beginner",
+        "solves": 326
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=b64630d2b56bc499e7227dd95e6925a432ebf5b1e1527e88758241c1314bb84a%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "Sorry to have lost the key of the secret Gate like this... But believe me there is a way if you follow the Right Path..",
+        "author": "it4ch1",
+        "points": 424,
+        "id": "9917b030-4df2-4455-81a8-7ec4dcdb5a60",
+        "name": "Secret Door",
+        "category": "Rev",
+        "solves": 117
+    },
+    {
+        "files": [],
+        "description": " Madara attacked leaf village. everyone wants Naruto to turn into Nine-Tails, Naruto don't know what's the SECRET to change its role to 'NineTails'? can you as a shinobi help Naruto???\nusername: Naruto\nPassword: Chakra\n\nhttp://34.132.132.69:8004/",
+        "author": "h4l0gen ",
+        "points": 372,
+        "id": "22de1843-0461-423e-9638-a1d95da8a613",
+        "name": "Secret-of-Kurama",
+        "category": "Beginner",
+        "solves": 177
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=ff6e0e276eb41f48cdc88d84bc201bad4c14083588378a18a08cda40beefd8b2%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "Can you break my emerging note making app? It is still in beta. I have a feeling that it is not secure enough.\n\nhttp://34.132.132.69:8001/",
+        "author": "p1r4t3",
+        "points": 477,
+        "id": "e873a64f-2a97-4768-805d-0199e563113f",
+        "name": "armoured-notes",
+        "category": "web",
+        "solves": 42
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=10dd484ca8b59461478d7f8ba96e2fd19ddab733b48a459eccd8e1a2893db686%2Fchall.py",
+                "name": "chall.py"
+            }
+        ],
+        "description": "My new encryption is so smooth ... I hope no one can break it.",
+        "author": "cYb0rg",
+        "points": 487,
+        "id": "862e0fce-7ef8-47b2-8502-7816573c56de",
+        "name": "Curvy_Curves",
+        "category": "Crypto",
+        "solves": 26
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=0a743877ef1d1836e8204490198c65edb94c2c018416dbd7a90995ce6c467d14%2Fescape_the_room.zip",
+                "name": "escape_the_room.zip"
+            }
+        ],
+        "description": "You have limited tries, try to maximize you knowledge with every try, if you feel hungry there are some cookies kept near the stack of papers\n\nnc 34.70.212.151 8005",
+        "author": "P3g4su5",
+        "points": 452,
+        "id": "1ede97d1-4f06-4fc8-a36f-547fdc80da3b",
+        "name": "Escape The Room",
+        "category": "Beginner",
+        "solves": 80
+    },
+    {
+        "files": [],
+        "description": "Score 100/100 to pass this exam \n\nAttachments: [marks.zip](https://staticbckdr.infoseciitr.in/marks.zip)\n\nnc 34.70.212.151 8004",
+        "author": "P3g4sus",
+        "points": 373,
+        "id": "c3184da9-c588-4244-9869-42701d8bfbac",
+        "name": "Marks",
+        "category": "Beginner",
+        "solves": 176
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=3d558b9a0a095b6e7b24f81470ce38867ea89dec338a9e7a729d9de94771984c%2Foutput.txt",
+                "name": "output.txt"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=79bad16c352a357f13469e99735bf4dd2d411301959f7ed0a92aa0647cbcd68a%2Fscript.py",
+                "name": "script.py"
+            }
+        ],
+        "description": "Groot is stuck on a spaceship somewhere, he wants to send a message to his team so he can get saved but doesn't want anyone in between to read it. So he encrypts the message and then sends it. Now other guardians are unable to understand it, please help them in knowing what's the message.\n",
+        "author": "Gr00t",
+        "points": 250,
+        "id": "53ac4871-54a1-4587-9975-6f6553902a0e",
+        "name": "mini_RSA",
+        "category": "Beginner",
+        "solves": 310
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=092c482474caa136a0fe83d0dfd10dea1bbd67503daec67d87c159afeedf6b9c%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "Too many admins spoil the broth. Can you login as the right admin and get the flag ?\n\nhttp://34.132.132.69:8000/",
+        "author": "p1r4t3",
+        "points": 314,
+        "id": "b48f5c38-f9b7-4d4c-b7d3-41a6eabc0208",
+        "name": "too-many-admins",
+        "category": "web",
+        "solves": 239
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=e3f1c6e89c28549fca53756f0560389b6237418b269e9c14ec1222cfa62c5748%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "How 'bout an easy Steg challenge, Just remember that brute-forcing is not an option!!",
+        "author": "7π4nd5R_G0d",
+        "points": 484,
+        "id": "079ec721-d013-4991-a20a-aac166476430",
+        "name": "Indecipherable-image-or-is-it?",
+        "category": "Beginner",
+        "solves": 31
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=935d06c93ab91abc73a5937c28c1c63e61e22f25452166acb106b003806b11c2%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "Go off now and enjoy the 2 days of unlimited fun.",
+        "author": "cy4n1d3",
+        "points": 100,
+        "id": "709dd53d-7693-4d27-b5ae-903f445c44f6",
+        "name": "Beginner-menace",
+        "category": "Beginner",
+        "solves": 716
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=8823502df1ed5ebf77a70f66f2cb4d3551cc167477a7cc7d5525a04ef7559255%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "I've had a headache since last evening. Is there a magic spell that can cure it immediately?",
+        "author": "Sl4y3r_07",
+        "points": 218,
+        "id": "acc7a661-a035-4f3a-bba0-0801f7b1f200",
+        "name": "Headache",
+        "category": "Beginner",
+        "solves": 351
+    },
+    {
+        "files": [],
+        "description": "From the apollo moon landing in 1969 to people using Deepfake to fool others, the use of technology has changed. Anyways, use your skills to uncover the deep secrets of the moon landing from the given data. Adios amigo.\n\nAttachment: [hidenseek.wav](https://staticbckdr.infoseciitr.in/hideandseek.wav)",
+        "author": "7π4nd5R_G0d",
+        "points": 468,
+        "id": "60de9f85-198d-4570-ba99-81f3b4be29e5",
+        "name": "Sonic-Hide_and-Seek",
+        "category": "Forensics",
+        "solves": 57
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=d69fdac23bfc3ffb244b7637d043cdf5b6b45eff8026d49df7b82c28de87cf62%2Fld-linux-x86-64.so.2",
+                "name": "ld-linux-x86-64.so.2"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=9e7c7724aaf03934cb21f982b2d515d04bddc70b04e250dfcaac5b53fe65fd2a%2Fchal",
+                "name": "chal"
+            }
+        ],
+        "description": "Welcome to RLand Pizzeria, we serve out customers the best and the most delicious pizza in the world, go check it out !\n\nhttps://staticbckdr.infoseciitr.in/pizzeria.zip\n\nnc 34.70.212.151 8007",
+        "author": "P3g4su5",
+        "points": 484,
+        "id": "06ed2061-5209-4ba3-9651-dfb0b82538fd",
+        "name": "Pizzeria",
+        "category": "pwn",
+        "solves": 31
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=4c5f015343ebd33bf2f0361d8b33affcada8b5e694a504baa87110905ed4f2c9%2Fpublic.zip",
+                "name": "public.zip"
+            }
+        ],
+        "description": "It's thundering outside and you are you at your desk having solved 4 forensics challenges so far. Just pray to god you solve this one. You might want to know that sometimes too much curiosity hides the flag.",
+        "author": "7π4nd5R_G0d",
+        "points": 416,
+        "id": "078cdef9-645f-4ce9-b1d5-1765da45f46c",
+        "name": "Forenscript",
+        "category": "Forensics",
+        "solves": 127
+    },
+    {
+        "files": [],
+        "description": "Well libc 2.31 is easy. Isn't it? ;)\n\n<hr>\n\nAttachment: [konsolidator.zip](https://staticbckdr.infoseciitr.in/konsolidator.zip)\n\nnc 34.70.212.151 8001\n",
+        "author": "p0ch1ta",
+        "points": 483,
+        "id": "51606972-219f-41d0-b721-40d21c34c09b",
+        "name": "Konsolidator",
+        "category": "pwn",
+        "solves": 33
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=24e3826dddadfcd926bf8287e640a670b4abbfa36a2da8ac3f82bda71ed05c74%2Fchal",
+                "name": "chal"
+            }
+        ],
+        "description": "🍎🍌🍇🍓🍊🥭🍍🍑🍈🍉\n\nnc 34.70.212.151 8006",
+        "author": "P3g4su5",
+        "points": 420,
+        "id": "5e119c98-b799-4393-b4d4-c3ff4de958d8",
+        "name": "Fruit Basket",
+        "category": "Beginner",
+        "solves": 123
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=be71f46c0a962c3dd7e0bcceca7925b896ef3a5237d80ee0718735b4ff27e7d4%2Fld-linux-x86-64.so.2",
+                "name": "ld-linux-x86-64.so.2"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=030f60d382215852f85ffe603e450f5f0c5b93486a5420feacd2fe48b83f2223%2Fchall",
+                "name": "chall"
+            }
+        ],
+        "description": "Similar challenge as Baby Formatter but the with some added constraints\n\nhttps://staticbckdr.infoseciitr.in/masterformatter.zip\n\nnc 34.70.212.151 8002",
+        "author": "p0ch1ta",
+        "points": 467,
+        "id": "0b1a50c0-93e7-41ee-a9a9-394f4cfff02b",
+        "name": "Master Formatter",
+        "category": "pwn",
+        "solves": 58
+    },
+    {
+        "files": [],
+        "description": "Normal access is too slow. Try something faster. \nNote: Segfault is intended\n<hr>\nAttachment: [fast.zip](https://staticbckdr.infoseciitr.in/gottagofast.zip)",
+        "author": "0s4ma",
+        "points": 485,
+        "id": "b78b8a66-fb83-4732-b032-9fd7ab7d025b",
+        "name": "Gotta Go Fast",
+        "category": "Rev",
+        "solves": 28
+    },
+    {
+        "files": [],
+        "description": "I thought building chatbots would be easy... Seems like my chatbot doesn't understand much.\n\nhttp://34.132.132.69:8006/",
+        "author": "h4shk4t",
+        "points": 422,
+        "id": "8cf51a68-f40b-4c06-aa99-b4102bd131e2",
+        "name": "Unintelligible-Chatbot",
+        "category": "web",
+        "solves": 120
+    },
+    {
+        "files": [],
+        "description": "I love the Extended Berkeley Packet Filter, hby?\n\nAttachment: https://staticbckdr.infoseciitr.in/babyebpf.o",
+        "author": "sh4dy",
+        "points": 466,
+        "id": "88a81133-eaad-4a22-8a30-44328255d14c",
+        "name": "baby eBPF",
+        "category": "Rev",
+        "solves": 60
+    },
+    {
+        "files": [],
+        "description": "wend f'rward with this quest of yours, f'r thee shalt findeth the flag at the endeth\nAttachments: https://staticbckdr.infoseciitr.in/shakespeareanmouse.zip",
+        "author": "cy4n1d3",
+        "points": 496,
+        "id": "4becdaad-c91f-4188-8f11-bd843077666e",
+        "name": "The Shakespearean Mouse",
+        "category": "Forensics",
+        "solves": 9
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=d69fdac23bfc3ffb244b7637d043cdf5b6b45eff8026d49df7b82c28de87cf62%2Fld-linux-x86-64.so.2",
+                "name": "ld-linux-x86-64.so.2"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=4f72b06d510d5cc7efc581753505b0278cdbc551df6c2c6aba9bcf81e4259e1c%2Fchallenge",
+                "name": "challenge"
+            }
+        ],
+        "description": "Just another format string challenge. Aren't they too easy these days :)\n\nhttps://staticbckdr.infoseciitr.in/babyformatter.zip\n\nnc 34.70.212.151 8003",
+        "author": "p0ch1ta",
+        "points": 459,
+        "id": "bd9970cf-3a7c-4757-b43e-ed1ca8c68e47",
+        "name": "Baby Formatter",
+        "category": "pwn",
+        "solves": 70
+    },
+    {
+        "files": [],
+        "description": "Whisper the phrase, unveil with 'Open Sesame\n\nAttachment: https://staticbckdr.infoseciitr.in/opensesame.zip",
+        "author": "Sl4y3r_07",
+        "points": 358,
+        "id": "5443cfcd-36b6-4e97-92d0-76e1d6874314",
+        "name": "Open Sesame",
+        "category": "Rev",
+        "solves": 192
+    },
+    {
+        "files": [],
+        "description": "i started war as i don't like EQUALity, i lost, they cut every LETTER of my name and sent them to different ROUTES. Wanna know my name in L33t???\n\nhttp://34.132.132.69:8005/",
+        "author": "h4l0gen",
+        "points": 475,
+        "id": "179b1128-ce87-49bf-a5bf-817d344e8396",
+        "name": "space-war",
+        "category": "web",
+        "solves": 46
+    },
+    {
+        "files": [],
+        "description": "This challenge has got some Rizz !!\n\n<hr>\n\nAttachments: [slaydroid.zip](https://staticbckdr.infoseciitr.in/slaydroid.zip)",
+        "author": "Sl4y3r_07",
+        "points": 469,
+        "id": "3465c59a-f859-4ce6-94fb-181dd1eac92e",
+        "name": "Sl4ydroid",
+        "category": "Rev",
+        "solves": 55
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=ca90d48577497f118c9cfd749073a0378f3d038221c5c869273e2ee567b4cc66%2Fh14sh1.zip",
+                "name": "h14sh1.zip"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=f000fd3f586b3abb1fe093e202e633be1ef03029392bf43400c05e3ac6654a94%2Fhiashi.exe",
+                "name": "hiashi.exe"
+            }
+        ],
+        "description": "A CTF without Windows reversing isn't really a complete CTF, huh?",
+        "author": "sh4dy",
+        "points": 497,
+        "id": "9b6e4e7a-0610-48ee-9de1-4b09edd5812b",
+        "name": "Hiashi of the shades",
+        "category": "Rev",
+        "solves": 6
+    },
+    {
+        "files": [],
+        "description": "this time no leaks (hopefully)\n\nAttachments: [master_formatter_v2.zip](https://staticbckdr.infoseciitr.in/master_formatter_v2.zip)\n\nnc 34.70.212.151 8008",
+        "author": "p0ch1ta",
+        "points": 472,
+        "id": "099e9aef-5f71-4b88-b6b4-d8d3527b0873",
+        "name": "Master Formatter v2",
+        "category": "pwn",
+        "solves": 50
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=b53342e716403622fa7657d167d1c25fba1331eb808072899347218e60534e16%2Fchall.py",
+                "name": "chall.py"
+            }
+        ],
+        "description": "This time i decided to make this even safer",
+        "author": "cYb0rg",
+        "points": 488,
+        "id": "270ab506-0adb-4328-add0-f32bb7203916",
+        "name": "Safe Curvy Curve",
+        "category": "Crypto",
+        "solves": 24
+    },
+    {
+        "files": [],
+        "description": "Attachments: [empDB.zip](https://staticbckdr.infoseciitr.in/empdb.zip)\n\nnc 35.193.149.22 10004",
+        "author": "p0ch1ta",
+        "points": 492,
+        "id": "83bb851f-d090-4643-9dcf-16fcc3f36b7f",
+        "name": "EmpDB",
+        "category": "pwn",
+        "solves": 15
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=fa0eed0085ae5641e65389d2225878c9a9fea83a8b30e3fb2fc2dd0b9e3d5158%2Fscript.py",
+                "name": "script.py"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=88c123c1365bd6054ad186905f4e6b536e8a0d4f5a06288a377c6cea091fe0bc%2Foutput.txt",
+                "name": "output.txt"
+            }
+        ],
+        "description": "Encrypting once isn't safe enough, so I encrypted the flag 7 times. Good luck trying to decrypt it.",
+        "author": "L3G10N",
+        "points": 447,
+        "id": "1e644f2c-9bd1-436b-87bc-a561647a67f4",
+        "name": "Something_in_Common",
+        "category": "Beginner",
+        "solves": 88
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=1f934eade68ae4f180865bac0b26a26677f6929d8b1d96aa1a328aceee843614%2Fscript.py",
+                "name": "script.py"
+            }
+        ],
+        "description": "Hashes are really facsinating to me, especially their collisions. If you give me 2 different messages that make it through my hash collision check, I will reveal a part of my secret. If you can guess my secret I will give you the flag. P.S. My secret changes every time.\n nc 34.70.212.151 8000",
+        "author": "L3G10N",
+        "points": 485,
+        "id": "9e3e3c20-73ce-4cbd-bd55-0e74f02cdb3b",
+        "name": "ColL3g10n",
+        "category": "Crypto",
+        "solves": 28
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=9f7e8d973134a16162e4d2f999bb8a7665106e3bcbf5a979af7c39e9f0a257c0%2Fblowcode.exe",
+                "name": "blowcode.exe"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=9c9f3590127a003240ba604ca2979398873eb3567d1ba412b3cccdcf3cecd12e%2Flol.bin",
+                "name": "lol.bin"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=3eca7ab631c8b9b22a443e717f9e02e497d23fb289ecd0d9f99d516e585c94ba%2Fflag.enc",
+                "name": "flag.enc"
+            }
+        ],
+        "description": "Unravel the mystery that lies within",
+        "author": "sh4dy",
+        "points": 494,
+        "id": "f54dcb3e-9eed-4033-916a-3896fae7c7f5",
+        "name": "Blowcode",
+        "category": "Rev",
+        "solves": 12
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=6ba5619f896a38fae3e8490b3ddc01fef6d68f2fc381b71c28afadeb7e177e30%2Foutput.txt",
+                "name": "output.txt"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=3b0bac4480bbe150370588f6c3ca9dc76b19f01f4cf4ec764c51b7784907fff1%2Fchal.py",
+                "name": "chal.py"
+            }
+        ],
+        "description": "The last message was to check if you know RSA or nah. Turns out that you do, so i can send you some more messages. Well, in this message i'll reveal my location to you so that you can come and save me!",
+        "author": "Gr00t",
+        "points": 455,
+        "id": "d6245a95-dcc5-4584-a13a-9e480a93c265",
+        "name": "mini_RSA_v2",
+        "category": "Beginner",
+        "solves": 77
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=eee77cf103de1f665b52de9d26344e1e5f042f37bfc605c7e358b411d9413f5f%2Fchall.zip",
+                "name": "chall.zip"
+            }
+        ],
+        "description": "177013 is, in fact, a quadratic non-residue in the BLS12-381 scalar field. But, can you *prove* me wrong?\n\nnc 34.70.212.151 8009",
+        "author": "crypt1n4",
+        "points": 500,
+        "id": "74fa68fb-1978-41f9-89aa-c1345c4e57d1",
+        "name": "ProveMeWrong",
+        "category": "Crypto",
+        "solves": 1
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=5d329c17911f574dc66ad456534177325dc840f7deaef042d872d30e91bdcb03%2Fintercepted.txt",
+                "name": "intercepted.txt"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=1ea0a578529fea20c2ac07e24ae418bce987bf6471acd6c95311b9c9df7caa0c%2Fmain.sage",
+                "name": "main.sage"
+            }
+        ],
+        "description": "the last time i met Bob, i wanted to ask him for the flag. But i couldnt get an opportunity due to Eve constantly hanging around. So i decided to use this brilliant scheme that could help Bob transmit the flag to me securely!",
+        "author": "kh4rg0sh",
+        "points": 490,
+        "id": "89ce15c5-fee4-43b5-ad46-5f78a8570a9f",
+        "name": "Secure_Matrix_Transmissions",
+        "category": "Crypto",
+        "solves": 20
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=47529a9bb963246a4c9f979a7c0a9d3cea7351a5eb1186cb04bda803d6fc367d%2Foutput.txt",
+                "name": "output.txt"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=0c34ab08e87098f6e6f2b2cebdaca4f7e1c363e5f394890ccff2424266f0b77b%2Fmain.sage",
+                "name": "main.sage"
+            }
+        ],
+        "description": "bro whats the deal with these elliptic curves? i dont like them and well personally i have some other favourite curves. you know what, i feel offended and im gonna do what i feel like.",
+        "author": "kh4rg0sh",
+        "points": 492,
+        "id": "768db69d-c68d-48fc-87ec-7232123af91e",
+        "name": "Rebellious",
+        "category": "Crypto",
+        "solves": 16
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=abb25ddf8195c609c454bbc3cc54aafa2e786eb853e21685c3251f1fd72582d4%2Fmain.sage",
+                "name": "main.sage"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=a0466fab396d200b332d2d11869fe496108e16fd06c96cb9e06cf2778896d839%2Fintercepted.txt",
+                "name": "intercepted.txt"
+            }
+        ],
+        "description": "Uhh, i didn't expect that to be faulty. Well, Eve got me good there and i guess i'll have to look out for some other secure encryption protocols. Welp, i'll let Bob know that and ask him for the new flag, i suppose?",
+        "author": "kh4rg0sh",
+        "points": 500,
+        "id": "94313dae-2c38-4990-99fd-abba5f78b5df",
+        "name": "Secure_Matrix_Transmissions_v2",
+        "category": "Crypto",
+        "solves": 1
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=988ea93f30d030e0ca2b8573f647a8de56068e630bca9058f4c80bb581970c77%2FSetup.sol",
+                "name": "Setup.sol"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=b061fa636f11bc1bd06111664a80840e50cecc16e9f9d4f161ea3677bc95daa9%2Fsolve-pow.py",
+                "name": "solve-pow.py"
+            }
+        ],
+        "description": "You are given a task to stop other humans to mint this Back Door NFT, and stop the system forever.\n\nNote: Use solve-pow.py to generate ticket\n\nnc 35.229.95.10 8001",
+        "author": "V1C70RYG0D",
+        "points": 492,
+        "id": "5bc1dd08-e74d-42dd-ad78-5a676bd4c98b",
+        "name": "VulnChain",
+        "category": "Blockchain",
+        "solves": 16
+    },
+    {
+        "files": [],
+        "description": "A web application on rockets written in Java. (Do not bruteforce)\n\nhttp://34.132.132.69:8008/",
+        "author": "h4shk4t",
+        "points": 493,
+        "id": "8dae3a14-bce1-4764-b652-4d79cf8d212e",
+        "name": "Rocket Explorer",
+        "category": "web",
+        "solves": 13
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=b7c4c53937d4193b809d05e0c464539fe9834f91093c45f2105917b7d2da52ee%2FMarvin's%20logs.txt",
+                "name": "Marvin's logs.txt"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=ddcd0c2cab3b3414965a542795de2d8cb6a8c8ea0fd38baec3223cd4fd7dd911%2FGuessy_2020.py",
+                "name": "Guessy_2020.py"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=d09807151b3281980b33103cfde3890e6b270a55a59a3282be6b43c95c618945%2FGuessy_1970.py",
+                "name": "Guessy_1970.py"
+            }
+        ],
+        "description": "Marshall's grandfather Marvin was a genius. He was able to retrieve 'The Flag' by beating The Guessy Game in the 1970s. It's the 2020s now and the Game has updated ever since and Marshall hasn't been able to beat it. But now he has found his GrandFather's logs and the script to The Guessy Game from the 1970s. Help Marshall beat The Guessy Game and get The Flag.\n\nnc 34.70.212.151 8010",
+        "author": "L3G10N",
+        "points": 415,
+        "id": "22d52892-d656-44ee-ad7b-96583c316fde",
+        "name": "Not So Guessy",
+        "category": "Beginner",
+        "solves": 128
+    },
+    {
+        "files": [],
+        "description": "simplest among all challenges, go play with it... \n\nhttp://34.132.132.69:8010/",
+        "author": "h4l0gen & j4ck4l",
+        "points": 489,
+        "id": "c6e5557c-3772-4b7f-99c0-a2317e041095",
+        "name": "halo-jack",
+        "category": "Misc",
+        "solves": 22
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=b061fa636f11bc1bd06111664a80840e50cecc16e9f9d4f161ea3677bc95daa9%2Fsolve-pow.py",
+                "name": "solve-pow.py"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=71450ffa7942f0c9051d2a0d60ae8bc22da27d627ba28b29db89949feef768a7%2FChal.sol",
+                "name": "Chal.sol"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=15472166b49a02279c23e13ede6ebaa1bc0e0362cc958df1b061afbff0572973%2FSetup.sol",
+                "name": "Setup.sol"
+            }
+        ],
+        "description": "You are not much of a gambler, are you?\n\nNote: Use solve-pow.py to generate ticket\n\nnc 35.229.95.10 8000\n",
+        "author": "L3G10N",
+        "points": 487,
+        "id": "77c4afe7-fafe-443d-9ab4-fc6877566305",
+        "name": "BabyBlackjack",
+        "category": "Blockchain",
+        "solves": 25
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=91beea102f84ac0a39acd79bd3c335331207147f867842536678d60cc8969343%2Fhalo-jack2.zip",
+                "name": "halo-jack2.zip"
+            }
+        ],
+        "description": "This time with an OSINT challenge\n\nToday, I ate oats from a very famous company, and I had to go to Sedgwick for car claims. The employees told me to send my query to a number that was posted there in July 2020. After eating oats, I got reminded of the freeway on which I had an accident a few minutes before. Can you find me the number? The password for the zip file is the MD5 hash of the phone number (only numbers).",
+        "author": "h4l0gen & j4ck4l",
+        "points": 496,
+        "id": "f98baa6b-7596-4d9b-9c5d-433c69022790",
+        "name": "halo-jack again",
+        "category": "Misc",
+        "solves": 8
+    },
+    {
+        "files": [],
+        "description": "<a href=\"https://forms.gle/M8544Kg1CRJH1GGXA\">Feedback form</a> ",
+        "author": "InfoSecIITR",
+        "points": 42,
+        "id": "14fe54c4-21a1-46bf-aa7c-c14cca0ec7a9",
+        "name": "Feedback Form",
+        "category": "FeedBack",
+        "solves": 125
+    },
+    {
+        "files": [
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=8210c4ea4ab9bca63cf80aabf04c1d7b39cfe9c4bdc2921e8fa5dad646b14fc7%2Fencoded.bin",
+                "name": "encoded.bin"
+            },
+            {
+                "url": "https://backdoor.infoseciitr.in/uploads?key=2336f42908555c9d6d694fcd5cc44eb15a00d06245d5dd0c7f48b94175c33cec%2Fsomething.txt",
+                "name": "something.txt"
+            }
+        ],
+        "description": "I was offered a famous Italian drink along with a message, but it affected me in such a way that I couldn't decipher it. Need your help and please don't make excuse if you can't. ",
+        "author": "Sl4y3r_07",
+        "points": 495,
+        "id": "f1cf8ff2-fa3e-4abb-8e94-b61611ab1d3f",
+        "name": "Drunk",
+        "category": "Forensics",
+        "solves": 11
+    }
+]

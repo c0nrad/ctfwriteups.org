@@ -1,0 +1,1289 @@
+[
+    {
+        "categories": [
+            "pwn"
+        ],
+        "authors": [
+            "S2G, Carixo"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 13,
+        "challenge_id": "4ec37fc7-5b4b-47a2-a402-c45e93b89fc5",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 48,
+        "top_solved_teams": [
+            {
+                "id": 85,
+                "name": "CVE2K9",
+                "time": 1703788331
+            },
+            {
+                "id": 139,
+                "name": "Project Sekai",
+                "time": 1703788360
+            },
+            {
+                "id": 501,
+                "name": "thebaguettescrew",
+                "time": 1703789475
+            }
+        ],
+        "description": "Pretty standard ret2libc pwn challenge.",
+        "services": [
+            {
+                "user_display": "nc challenge19.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge19-dist.tgz"
+        ],
+        "title": "Ezrop",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "reversing"
+        ],
+        "authors": [
+            "Tethys & kriztw"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 8,
+        "challenge_id": "e6b01e6a-e6b1-4f18-9a0f-4ed1fe0124aa",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 1,
+        "top_solved_teams": [
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703868005
+            }
+        ],
+        "description": "Last week I had a fever dream about Brian Silverman's excessive love of Christmas lights. When I came to my senses this program was on my computer. I don't know what it does. Can you help me?",
+        "services": [],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge04-windows-dist.tgz",
+            "https://storage.googleapis.com/potluckctf/challenge04-mac-dist.tgz",
+            "https://storage.googleapis.com/potluckctf/challenge04-linux-dist.tgz"
+        ],
+        "title": "Charming Circuit Challenge",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "misc",
+            "hardware"
+        ],
+        "authors": [
+            "plonk"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 15,
+        "challenge_id": "b178d797-6ab5-44d6-b7c6-e71c030224e9",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 25,
+        "top_solved_teams": [
+            {
+                "id": 241,
+                "name": "0xffa",
+                "time": 1703788836
+            },
+            {
+                "id": 453,
+                "name": "U@A",
+                "time": 1703789157
+            },
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703791476
+            }
+        ],
+        "description": "This weird arcade machine just got delivered to you. It seems broken, but there's a serial port on the back. You connect, and are greeted with a weird shell...\n\nNote (relevant for part 2: sekurbut): For fairness, we've re-hosted the previous version as well at challenge30.play.potluckctf.com If you have found a bug that works there but not on the newer versions, don't waste time on it, it's an unintended red herring. The intended solution works on both version. The change in offsets in the bootloader is not relevant to the exploit.\n",
+        "services": [
+            {
+                "user_display": "nc challenge22.play.potluckctf.com 31337",
+                "hyperlink": false
+            },
+            {
+                "user_display": "nc challenge30.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [],
+        "title": "baby sekurbut",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "misc"
+        ],
+        "authors": [
+            "ZetaTwo"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 1,
+        "challenge_id": "5c64d69b-40f7-40cb-90e3-c3049d7ca6ff",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 625,
+        "top_solved_teams": [
+            {
+                "id": 73,
+                "name": "ChMN",
+                "time": 1703786421
+            },
+            {
+                "id": 512,
+                "name": "small clowns",
+                "time": 1703786421
+            },
+            {
+                "id": 295,
+                "name": "Amiens Computer Club",
+                "time": 1703786421
+            }
+        ],
+        "description": "Welcome to the Potluck CTF. The flag is potluck{lets-get-the-party-started}",
+        "services": [],
+        "file_urls": [],
+        "title": "Welcome!",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "misc"
+        ],
+        "authors": [
+            "Les Amateurs: HELLOPERSON, unvariant.winter, stuxf"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 14,
+        "challenge_id": "061b78c9-f533-46d0-b98c-3864d2599d11",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 27,
+        "top_solved_teams": [
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703793237
+            },
+            {
+                "id": 140,
+                "name": "Kalmarunionen",
+                "time": 1703794134
+            },
+            {
+                "id": 239,
+                "name": "Super Guesser",
+                "time": 1703795865
+            }
+        ],
+        "description": "We weren't sure what to bring to the potluck, but we figured another pyjail would always be welcome. ",
+        "services": [
+            {
+                "user_display": "nc challenge28.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge28-dist.tgz"
+        ],
+        "title": "tacocat",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn"
+        ],
+        "authors": [
+            "uz56764"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 11,
+        "challenge_id": "39f21525-ea8e-44aa-ad3d-1dff28f4abaa",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 11,
+        "top_solved_teams": [
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703797541
+            },
+            {
+                "id": 501,
+                "name": "thebaguettescrew",
+                "time": 1703807114
+            },
+            {
+                "id": 140,
+                "name": "Kalmarunionen",
+                "time": 1703807352
+            }
+        ],
+        "description": "A Virtual Machine containing a poor pig. And 0 and 1",
+        "services": [
+            {
+                "user_display": "nc challenge21.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge21-dist.tgz"
+        ],
+        "title": "Schr\u00f6dinger's P1G",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "web"
+        ],
+        "authors": [
+            "13x1"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 10,
+        "challenge_id": "e075708d-7e0b-4971-a31f-ee09213c9774",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 58,
+        "top_solved_teams": [
+            {
+                "id": 119,
+                "name": "organizers",
+                "time": 1703788031
+            },
+            {
+                "id": 285,
+                "name": "neuland",
+                "time": 1703788956
+            },
+            {
+                "id": 19,
+                "name": "FluxFingers",
+                "time": 1703789777
+            }
+        ],
+        "description": "I found this shop that claims to provide \"\"delivery via reindeer sleigh\"\". I ordered a few things, but the cards did not arrive on time! Please find out what went wrong.\nAnyway, check out their web page\nNote: Any accounts named ADMIN, BOT or similar are regular users and not part of the challenge, please ignore them",
+        "services": [
+            {
+                "user_display": "http://challenge15.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [],
+        "title": "Santify",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn"
+        ],
+        "authors": [
+            "borysp, valis"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 5,
+        "challenge_id": "8a57d58f-546f-4c62-8488-41153944260b",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 2,
+        "top_solved_teams": [
+            {
+                "id": 656,
+                "name": "RedRocket",
+                "time": 1703801903
+            },
+            {
+                "id": 140,
+                "name": "Kalmarunionen",
+                "time": 1703809515
+            }
+        ],
+        "description": "With our state-of-the-art sandbox, you can nuke anything without any worries. Can you get the flag though?",
+        "services": [
+            {
+                "user_display": "nc challenge25.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge25-dist.tgz"
+        ],
+        "title": "sandboxes",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn",
+            "reversing"
+        ],
+        "authors": [
+            "blasty"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 16,
+        "challenge_id": "678a6e02-8148-4b86-8589-e90c5d2056f7",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 2,
+        "top_solved_teams": [
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703811686
+            },
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703851836
+            }
+        ],
+        "description": "You are tasked to help out in the kitchen of the elusive g0rd0n r4ms4y. This rude chef needs to be put in his place real bad! Show us you're an elite chef and attempt a coup of his little kitchen.",
+        "services": [
+            {
+                "user_display": "nc challenge27.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge27-dist.tgz"
+        ],
+        "title": "Pot Of Gold",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "web"
+        ],
+        "authors": [
+            "ntomsic"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 4,
+        "challenge_id": "7cf2ba10-4291-4831-873b-a70f3a2d7312",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 161,
+        "top_solved_teams": [
+            {
+                "id": 241,
+                "name": "0xffa",
+                "time": 1703789155
+            },
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703789168
+            },
+            {
+                "id": 285,
+                "name": "neuland",
+                "time": 1703789481
+            }
+        ],
+        "description": "I heard Cyberchef is monitored by GCHQ so I am trying to build my own version. It is still under construction so if you see any problems with the site just send a link to the admin and they will have a look :) // (Flag is in admin cookie)",
+        "services": [
+            {
+                "user_display": "http://challenge11.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [],
+        "title": "Encoderchef",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "sandbox"
+        ],
+        "authors": [
+            "Addison Crump"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 7,
+        "challenge_id": "88aaf274-b2e7-42cb-a042-d5831ccee6a4",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 3,
+        "top_solved_teams": [
+            {
+                "id": 628,
+                "name": "ret2rev",
+                "time": 1703822772
+            },
+            {
+                "id": 142,
+                "name": "\ud83d\udca6",
+                "time": 1703848178
+            },
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703860909
+            }
+        ],
+        "description": "A layer cake of paranoia. Please enjoy, and don't be afraid to take seconds.\nTop tip: Due to restrictions caused by virtualisation, you may need to limit your transfer rate when submitting large payloads to the server. Consider compression!",
+        "services": [
+            {
+                "user_display": "nc challenge01.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge01-dist.tgz"
+        ],
+        "title": "Cake of Paranoia",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "reversing"
+        ],
+        "authors": [
+            "Project Sekai!"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 12,
+        "challenge_id": "a3825a06-39b2-4fb3-a09a-c665834ee93a",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 7,
+        "top_solved_teams": [
+            {
+                "id": 13,
+                "name": "dotsu",
+                "time": 1703801442
+            },
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703809211
+            },
+            {
+                "id": 555,
+                "name": "buttf14g",
+                "time": 1703815014
+            }
+        ],
+        "description": "Wow it's another gacha game... but everything is so expensive! Everyone's showing off their characters, but I don't have any. Would be a shame if there was a cheat code that could give me some!\nNote: The challenge was created with Python version 3.12.0a7.\nThanks to enscribe (https://enscribe.dev) for the assets used in the game!",
+        "services": [],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge14-dist.tgz"
+        ],
+        "title": "GACHAAAAAtkr",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn",
+            "web"
+        ],
+        "authors": [
+            "Firzen"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 24,
+        "challenge_id": "a5596915-06fa-440b-9e92-b49f57388226",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 2,
+        "top_solved_teams": [
+            {
+                "id": 119,
+                "name": "organizers",
+                "time": 1703821857
+            },
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703872682
+            }
+        ],
+        "description": "People always say crypto is so hard, but I'm sure I didn't fuck up there. Parsing JSON is super easy too, just use strtok.",
+        "services": [
+            {
+                "user_display": "http://challenge07.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge07-dist.tgz"
+        ],
+        "title": "bear-err",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "cryptography",
+            "reversing"
+        ],
+        "authors": [
+            "gmerz & cluosh from We_0wn_Y0u"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 26,
+        "challenge_id": "45659934-2b80-4945-8604-d021c147f0d7",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 1,
+        "top_solved_teams": [
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703865695
+            }
+        ],
+        "description": "It's the potluck season again! But as every year, that damn dude Jerry brought his special Cookmaster and is stealing the show with his secret sauce! But not this year. It's time to teach him a lesson! Can you steal the recipe for his secret sauce and corrupt his Cookmaster to put a bad taste to his food?\nYou even bought your own Cookmaster to try everything before you can pull of your heist during the potluck!\nFlag 1: Can you access the system and extract the secret sauce? Flag 2: Great, you got system access! Now all that\u2019s left to do, hack the system and corrupt the heater to grill his sauce!",
+        "services": [
+            {
+                "user_display": "http://challenge17.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge17-dist.tgz"
+        ],
+        "title": "Cookmaster 1",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "misc"
+        ],
+        "authors": [
+            "tabun-dareka"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 17,
+        "challenge_id": "cc6f0250-c368-4216-ad2e-6ef2bc610227",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 6,
+        "top_solved_teams": [
+            {
+                "id": 2,
+                "name": "KITCTF",
+                "time": 1703795394
+            },
+            {
+                "id": 284,
+                "name": "Tasteless",
+                "time": 1703802535
+            },
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703803749
+            }
+        ],
+        "description": "Why did the Emacs user bring a keyboard to the restaurant? They wanted to have a \"Ctrl\" over their spaghetti code!",
+        "services": [
+            {
+                "user_display": "nc challenge13.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge13-dist.tgz"
+        ],
+        "title": "Emacro-wave cooking",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "reversing"
+        ],
+        "authors": [
+            "noobtracker",
+            "hanemile",
+            "maride"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 28,
+        "challenge_id": "3e102849-a63d-4b32-8955-4391e70536f5",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 0,
+        "top_solved_teams": [],
+        "description": "Ever been to Mexico? Here is your ticket: https://github.com/maride/mexico",
+        "services": [],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge08-dist.tgz"
+        ],
+        "title": "Enchiladas",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "web"
+        ],
+        "authors": [
+            "thegrandpew - Blue Water"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 21,
+        "challenge_id": "e5e51a2d-3f3d-4dc1-8462-052f51cc1bcb",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 3,
+        "top_solved_teams": [
+            {
+                "id": 119,
+                "name": "organizers",
+                "time": 1703793895
+            },
+            {
+                "id": 309,
+                "name": "The Flat Network Society",
+                "time": 1703814949
+            },
+            {
+                "id": 623,
+                "name": "SaltT3am",
+                "time": 1703870549
+            }
+        ],
+        "description": "The author did not provide a description. Good luck!",
+        "services": [
+            {
+                "user_display": "http://challenge05.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge05-dist.tgz"
+        ],
+        "title": "savaoury",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn"
+        ],
+        "authors": [
+            "UDP - Blue Water"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 23,
+        "challenge_id": "13b16fa2-7bf1-4a5a-89eb-de39e9f2e208",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 1,
+        "top_solved_teams": [
+            {
+                "id": 104,
+                "name": "les amateurs",
+                "time": 1703851964
+            }
+        ],
+        "description": "Tamagoyaki (literally 'grilled egg') is a Japanese omelette crafted by rolling layers of fried, beaten eggs.\nTamagoyaki shares similarities with glibc's malloc, as it also contains several layers of fried and beaten code.\nNote: Expect 4 bits of bruteforce; Anything above that is probably a bad idea",
+        "services": [
+            {
+                "user_display": "nc challenge26.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge26-dist.tgz"
+        ],
+        "title": "Tamagoyaki",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "web"
+        ],
+        "authors": [
+            "BitK, XeR"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 3,
+        "challenge_id": "1a0fd2a5-7954-4d5d-8ec7-66dab1f64ef6",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 3,
+        "top_solved_teams": [
+            {
+                "id": 142,
+                "name": "\ud83d\udca6",
+                "time": 1703814178
+            },
+            {
+                "id": 713,
+                "name": "e2033dd7413ccc398709d8e2982f8a1c",
+                "time": 1703830955
+            },
+            {
+                "id": 119,
+                "name": "organizers",
+                "time": 1703870907
+            }
+        ],
+        "description": "Imagine a world where your code soars on the performance of nginx, dancing gracefully with modern scripting and transformation powers. While PHP aficionados are still trying to figure out their 500 internal errors and CGI fans are busy scripting their way to the last century, you'll be light-years ahead, sipping espresso and deploying functionalities like it's nobody's business.",
+        "services": [
+            {
+                "user_display": "http://challenge24.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge24-dist.tgz"
+        ],
+        "title": "Traditional Feast: Nginx Spagetthi",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn",
+            "hardware"
+        ],
+        "authors": [
+            "plonk"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 25,
+        "challenge_id": "3b4da23d-9396-4cbf-bea6-ccb1bb9f4ffb",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 8,
+        "top_solved_teams": [
+            {
+                "id": 19,
+                "name": "FluxFingers",
+                "time": 1703807208
+            },
+            {
+                "id": 605,
+                "name": "noop",
+                "time": 1703810353
+            },
+            {
+                "id": 501,
+                "name": "thebaguettescrew",
+                "time": 1703811077
+            }
+        ],
+        "description": "The previous owner of the arcade machine still has a trace of the firmware update. Maybe there's a way to run your own firmware?\n\nNote 1: This challenge was updated at 2023-12-29 00:20 UTC. If you solved part 1 before this time, you will need to re-run your exploit to get the current version of the data.\n\nNote 2: The \"reset\" function will also reset the flash memory.\n\nNote 3: For fairness, we've re-hosted the previous version as well at challenge30.play.potluckctf.com If you have found a bug that works there but not on the newer versions, don't waste time on it, it's an unintended red herring. The intended solution works on both version. The change in offsets in the bootloader is not relevant to the exploit.\n",
+        "services": [
+            {
+                "user_display": "nc challenge22.play.potluckctf.com 31337",
+                "hyperlink": false
+            },
+            {
+                "user_display": "nc challenge30.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge23-dist.tgz"
+        ],
+        "title": "sekurbut",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "cryptography"
+        ],
+        "authors": [
+            "Neobeo"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 18,
+        "challenge_id": "9bcbb397-d90d-4604-97e2-51f1531d933c",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 21,
+        "top_solved_teams": [
+            {
+                "id": 261,
+                "name": "Black Bauhinia",
+                "time": 1703788401
+            },
+            {
+                "id": 578,
+                "name": "thc",
+                "time": 1703789040
+            },
+            {
+                "id": 142,
+                "name": "\ud83d\udca6",
+                "time": 1703789274
+            }
+        ],
+        "description": "Let's bake a cake -- an upside-down cake full of secrets! Ready to flip the script?",
+        "services": [],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge16-dist.tgz"
+        ],
+        "title": "Upside-down Cake",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "misc",
+            "kubernetes"
+        ],
+        "authors": [
+            "p4ck3t0, diff-fusion"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 22,
+        "challenge_id": "30685573-4bc4-4f1b-9c77-62cf10d36a9f",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 16,
+        "top_solved_teams": [
+            {
+                "id": 265,
+                "name": "ostwestachse",
+                "time": 1703793796
+            },
+            {
+                "id": 587,
+                "name": "mizz onreal fg jilf",
+                "time": 1703794515
+            },
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703796477
+            }
+        ],
+        "description": "Welcome, chefs of the Kubernetes kitchen! The hungry Helmsman is on the lookout for a unique feast, and his palate is set on flags. Embark on the \"Hungry Helmsman\" challenge, where Kubernetes prowess meets culinary finesse. Craft the ultimate deployment to reveal the flag!",
+        "services": [
+            {
+                "user_display": "nc challenge10.play.potluckctf.com 8888",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [],
+        "title": "Hungry Helmsman",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "cryptography"
+        ],
+        "authors": [
+            "dorian"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 19,
+        "challenge_id": "5cb35e8a-f51d-45fc-8d96-28327eb023f4",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 18,
+        "top_solved_teams": [
+            {
+                "id": 151,
+                "name": "XA21",
+                "time": 1703790123
+            },
+            {
+                "id": 142,
+                "name": "\ud83d\udca6",
+                "time": 1703794802
+            },
+            {
+                "id": 2,
+                "name": "KITCTF",
+                "time": 1703799693
+            }
+        ],
+        "description": "Alice, Bob, and Charlie are coordinating a potluck.",
+        "services": [
+            {
+                "user_display": "nc challenge03.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge03-dist.tgz"
+        ],
+        "title": "abc",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn"
+        ],
+        "authors": [
+            "dfyz (Ivan Komarov)"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 20,
+        "challenge_id": "60d5a50f-cc50-4fb6-b655-0aef503c5e4c",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 4,
+        "top_solved_teams": [
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703811140
+            },
+            {
+                "id": 841,
+                "name": "mhackeroni",
+                "time": 1703855653
+            },
+            {
+                "id": 142,
+                "name": "\ud83d\udca6",
+                "time": 1703863619
+            }
+        ],
+        "description": "Connect to the remote server with `nc -nv challenge09.play.potluckctf.com 31337`. For detailed instructions, see README.md in the provided challenge09-dist.tgz file.",
+        "services": [
+            {
+                "user_display": "nc challenge09.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge09-dist.tgz"
+        ],
+        "title": "auxv",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "reversing",
+            "misc"
+        ],
+        "authors": [
+            "Liikt"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 2,
+        "challenge_id": "ba85abb9-1889-47dd-9221-7e339eec3e08",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 1,
+        "top_solved_teams": [
+            {
+                "id": 284,
+                "name": "Tasteless",
+                "time": 1703862237
+            }
+        ],
+        "description": "Our development team created a secure way of booting firmware by authenticating against a different chip. We have the firmware, however we don't have the secure chip at hand :c Can you help us by emulating the secure processor so that we can boot our firmware?",
+        "services": [
+            {
+                "user_display": "http://challenge29.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge29-dist.tgz"
+        ],
+        "title": "REhoST",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "cryptography"
+        ],
+        "authors": [
+            "Pwnagaukar, DagurB"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 6,
+        "challenge_id": "61e2f7fb-013d-4c73-9bb2-2671e551c085",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 28,
+        "top_solved_teams": [
+            {
+                "id": 261,
+                "name": "Black Bauhinia",
+                "time": 1703790358
+            },
+            {
+                "id": 119,
+                "name": "organizers",
+                "time": 1703790434
+            },
+            {
+                "id": 558,
+                "name": "Abracada",
+                "time": 1703792391
+            }
+        ],
+        "description": "It was just yesterday when I was making my favorite dish (lima beans with lemon and lime) that I realised I could turn my favorite dish (lima beans with lemon and lime) into a unpenetrable cryptosystem 32 times stronger than AES.\nI, of course immediately patented the cryptosystem so that other people could not steal my idea.\nI will let you try out my cryptosystem, but you will only be allowed to encrypt data, not decrypt it, so that you can\\'t steal my cryptosystem.\nIf you find any vulnerability with the cryptosystem then please send me proof by decrypting the flag.\nIn the words of my grandfather (Albert Einstein)\n\"\"Man I love lima beans with lemon and lime, also PoC || GTFO\"\"\n",
+        "services": [
+            {
+                "user_display": "nc challenge18.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge18-dist.tgz"
+        ],
+        "title": "lima beans with lemon and lime",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "misc"
+        ],
+        "authors": [
+            "potduck"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 9,
+        "challenge_id": "5a9192de-a1e8-4230-b690-55a1489cac18",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 6,
+        "top_solved_teams": [
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703807443
+            },
+            {
+                "id": 140,
+                "name": "Kalmarunionen",
+                "time": 1703807890
+            },
+            {
+                "id": 581,
+                "name": "soudureaubeurre",
+                "time": 1703840980
+            }
+        ],
+        "description": "> Due to the special background of the R&D unit of Sunway CPU, the SW64 instruction set has not been made public so far. Although non-disclosure of the instruction set is very detrimental to the construction of the software ecosystem, it also prevents malicious attackers from writing shellcode targeting Sunway processors, and the product has extremely high self-security. [1]\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\nSurely writing shellcode for an \"\"unknown\"\" architecture is impossible, right, right???\nNote: Flag located at /flag_(a random uuid), there is no /bin/sh.\n[1] Machine translated, source: https://k-sina-cn.translate.goog/article_5952916295_162d24b47019001k3l.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp",
+        "services": [
+            {
+                "user_display": "nc challenge12.play.potluckctf.com 31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge12-dist.tgz"
+        ],
+        "title": "Shell No Evil",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "reversing"
+        ],
+        "authors": [
+            "Leeky"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 29,
+        "challenge_id": "bd60ce32-ddee-49c8-9c6b-614fac4b39fd",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 3,
+        "top_solved_teams": [
+            {
+                "id": 128,
+                "name": "Dragon Sector",
+                "time": 1703826716
+            },
+            {
+                "id": 139,
+                "name": "Project Sekai",
+                "time": 1703863700
+            },
+            {
+                "id": 453,
+                "name": "U@A",
+                "time": 1703871141
+            }
+        ],
+        "description": "Who needs a local file system anyways.",
+        "services": [
+            {
+                "user_display": "qemu-system-i386 -boot n -device e1000,netdev=mynet0 -netdev user,id=mynet0,bootfile=http://challenge06.play.potluckctf.com:31337",
+                "hyperlink": false
+            }
+        ],
+        "file_urls": [],
+        "title": "Hypertext O's",
+        "status": 0,
+        "team_rating": null
+    },
+    {
+        "categories": [
+            "pwn"
+        ],
+        "authors": [
+            "gmerz & cluosh from We_0wn_Y0u"
+        ],
+        "score": null,
+        "order": 2147483647,
+        "id": 27,
+        "challenge_id": "58d9e684-266e-4fbd-8dcb-24575b205f0b",
+        "unlocked_by": null,
+        "unsolved_rating_count": 0,
+        "unsolved_rating_sum": 0,
+        "solved_rating_count": 0,
+        "solved_rating_sum": 0,
+        "solves": 0,
+        "top_solved_teams": [],
+        "description": "It's the potluck season again! But as every year, that damn dude Jerry brought his special Cookmaster and is stealing the show with his secret sauce! But not this year. It's time to teach him a lesson! Can you steal the recipe for his secret sauce and corrupt his Cookmaster to put a bad taste to his food?\nYou even bought your own Cookmaster to try everything before you can pull of your heist during the potluck!\nFlag 1: Can you access the system and extract the secret sauce? Flag 2: Great, you got system access! Now all that\u2019s left to do, hack the system and corrupt the heater to grill his sauce!",
+        "services": [
+            {
+                "user_display": "http://challenge17.play.potluckctf.com:31337",
+                "hyperlink": true
+            }
+        ],
+        "file_urls": [
+            "https://storage.googleapis.com/potluckctf/challenge17-dist.tgz"
+        ],
+        "title": "Cookmaster 2",
+        "status": 0,
+        "team_rating": null
+    }
+]

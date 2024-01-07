@@ -1,0 +1,4 @@
+.env.dev
+.env.prod
+.env.stage
+.env.test

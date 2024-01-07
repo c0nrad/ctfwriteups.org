@@ -1,0 +1,12 @@
+Welcome to CTFWriteups.org newsletter #{{.Edition}}!
+
+This week's winners were chosen out of {{.TotalWriteups}} writeups.
+{{range $i, $writeup := .Writeups}}
+{{ $i}}.) {{$writeup.CTFName}} {{$writeup.ChallengeCategory}}/{{$writeup.ChallengeName}}
+{{$writeup.URL}}
+{{end}}
+You can find all the writeups for this week at ctfwriteups.org. If you're no longer interested in receiving these emails, you can unsubscribe at https://ctfwriteups.org/unsubscribe. Have feedback? Join the discord: https://discord.gg/srDFwyHmVS
+
+Happy Hacking!
+c0nrad - Sloppy Joe Pirates
+https://www.youtube.com/@SloppyJoePirates
