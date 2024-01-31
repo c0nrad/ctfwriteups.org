@@ -16,7 +16,7 @@ import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
-const EDITION = 4
+const EDITION = 5
 
 func main() {
 	env := "prod"

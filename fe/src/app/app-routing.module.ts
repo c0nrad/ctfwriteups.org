@@ -11,6 +11,7 @@ import { TopComponent } from "./pages/top/top.component";
 import { AboutComponent } from "./pages/about/about.component";
 import { NewsletterComponent } from "./pages/newsletter/newsletter.component";
 import { UnsubscribeComponent } from "./pages/unsubscribe/unsubscribe.component";
+import { CtfViewComponent } from "./pages/ctf-view/ctf-view.component";
 
 const routes: Routes = [
   { path: "", component: TopComponent },
@@ -21,8 +22,8 @@ const routes: Routes = [
   { path: "submit", component: WriteupEditComponent },
 
   { path: "ctfs", component: CtfListComponent },
-  { path: "ctfs/new", component: CtfEditComponent },
   { path: "ctfs/:id/edit", component: CtfEditComponent },
+  { path: "ctfs/:id", component: CtfViewComponent },
 
   { path: "newsletter", component: NewsletterComponent },
   { path: "unsubscribe", component: UnsubscribeComponent },

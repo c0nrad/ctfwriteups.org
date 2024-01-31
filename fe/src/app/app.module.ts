@@ -22,9 +22,10 @@ import { AboutComponent } from './pages/about/about.component';
 import { DateAgoPipe } from './date-ago.pipe';
 import { NewsletterComponent } from './pages/newsletter/newsletter.component';
 import { UnsubscribeComponent } from './pages/unsubscribe/unsubscribe.component';
+import { CtfViewComponent } from './pages/ctf-view/ctf-view.component';
 
 @NgModule({
-  declarations: [AppComponent, SearchComponent, LoginComponent, WriteupViewComponent, WriteupEditComponent, HeaderComponent, CtfListComponent, CtfEditComponent, NewestComponent, TopComponent, AboutComponent, DateAgoPipe, NewsletterComponent, UnsubscribeComponent],
+  declarations: [AppComponent, SearchComponent, LoginComponent, WriteupViewComponent, WriteupEditComponent, HeaderComponent, CtfListComponent, CtfEditComponent, NewestComponent, TopComponent, AboutComponent, DateAgoPipe, NewsletterComponent, UnsubscribeComponent, CtfViewComponent],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, FormsModule, LoadingBarHttpClientModule, LoadingBarRouterModule, LoadingBarModule],
   providers: [],
   bootstrap: [AppComponent],

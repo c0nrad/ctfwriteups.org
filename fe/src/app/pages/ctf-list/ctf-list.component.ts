@@ -21,7 +21,7 @@ import { User, UserService } from "src/app/services/user.service";
       <tbody>
         <tr *ngFor="let ctf of ctfs">
           <td>
-            <a [routerLink]="['/ctfs', ctf.id, 'edit']">{{ ctf.name }}</a>
+            <a [routerLink]="['/ctfs', ctf.id]">{{ ctf.name }}</a>
           </td>
           <td>{{ ctf.challengeCount }}</td>
           <td>{{ ctf.writeupCount }}</td>
